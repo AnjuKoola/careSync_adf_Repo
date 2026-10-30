@@ -182,7 +182,8 @@
 							}
 						},
 						{
-							"name": "Update Pipeine as Failed",
+							"name": "Update Pipeline as Failed",
+							"description": "This is to notify that the pipeline failed.",
 							"type": "Fail",
 							"dependsOn": [
 								{
